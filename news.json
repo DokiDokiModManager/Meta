@@ -1,0 +1,10 @@
+{
+  "news": [
+    {
+      "title": "Test News",
+      "body": "<p>This is a test news article</p><p>This can have <strong>HTML tags</strong> in it.</p>",
+      "timestamp": 1569405685296,
+      "style": "popup"
+    }
+  ]
+}
