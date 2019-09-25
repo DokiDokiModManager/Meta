@@ -2,7 +2,7 @@
   "news": [
     {
       "title": "Test News",
-      "source": "data:text/html,test",
+      "body": "Hello, world!",
       "timestamp": 1569405685296,
       "style": "popup"
     }
