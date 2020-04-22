@@ -1,10 +1,5 @@
 {
   "news": [
-    {
-      "title": "Test News",
-      "body": "Hello, world!",
-      "timestamp": 1569405685296,
-      "style": "popup"
-    }
+   
   ]
 }
