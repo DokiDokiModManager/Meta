@@ -1,5 +1,18 @@
 {
   "news": [
-   
+    {
+      "id": "hello-world-popup-1569405685296",
+      "title": "Test News",
+      "body": "Hello, world!",
+      "timestamp": 1569405685296,
+      "style": "popup"
+    },
+    {
+      "id": "hello-world-banner-1569405685296",
+      "title": "",
+      "body": "Hello, world!",
+      "timestamp": 1569405685296,
+      "style": "banner"
+    }
   ]
 }
