@@ -1,6 +1,25 @@
 {
   "translations": [
-    {"name":"reckonusm", "language":"Español (Latinoamérica)"},
-    {"name":"Proudust", "language":"日本語"}
+    {"name": "Serdar Sağlam", "language": "Turkish"},
+    {"name": "Buse İpek", "language": "Turkish"},
+    {"name": "Yusuf Osman YILMAZ", "language": "Turkish"},
+    {"name": "atesaliarda", "language": "Turkish"},
+    {"name": "Allan Nordhøy", "language": "Norwegian Bokmål"},
+    {"name": "ToTheMadness", "language": "Persian"},
+    {"name": "Aviee", "language": "Spanish (Latin America), Polish"},
+    {"name": "Neil Alexander García Cáceres", "language": "Spanish (Latin America)"},
+    {"name": "acaciin kao", "language": "Chinese (Simplified)"},
+    {"name": "Michal Biesiada", "language": "Polish"},
+    {"name": "Tymofij Lytvynenko", "language": "Ukrainian"},
+    {"name": "Cioccolata", "language": "German"},
+    {"name": "Lukas Trogisch", "language": "German"},
+    {"name": "Fat-Fat", "language": "French"},
+    {"name": "Olga Kawaii", "language": "Russian"},
+    {"name": "Zhang Jiupei", "language": "Japanese"},
+    {"name": "Proudust", "language": "Japanese"},
+    {"name": "MoccoCoffee", "language": "Belarusian"}
+  ],
+  "v4_beta": [
+    "Nobody, yet"
   ]
 }
