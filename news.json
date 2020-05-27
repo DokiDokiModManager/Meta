@@ -1,13 +1,6 @@
 {
   "news": [
     {
-      "id": "hello-world-popup-1569405685296",
-      "title": "Test News",
-      "body": "Hello, world!",
-      "timestamp": 1569405685296,
-      "style": "popup"
-    },
-    {
       "id": "hello-world-banner-1569405685296",
       "title": "",
       "body": "Welcome to the beta of Doki Doki Mod Manager 4! Please let me know if you find any bugs by sending a message in the Discord server, or by clicking the issue report button in the title bar.",
