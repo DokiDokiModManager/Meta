@@ -1,10 +1,10 @@
 {
   "news": [
     {
-      "id": "hello-world-banner-1569405685296",
+      "id": "v4-welcome-banner-1593870669920",
       "title": "",
-      "body": "Welcome to the beta of Doki Doki Mod Manager 4! Please let me know if you find any bugs by sending a message in the Discord server, or by clicking the issue report button in the title bar.",
-      "timestamp": 1569405685296,
+      "body": "Thanks for downloading Doki Doki Mod Manager 4!",
+      "timestamp": 1593870669920,
       "style": "banner"
     }
   ]
