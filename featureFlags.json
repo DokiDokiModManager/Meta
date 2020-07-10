@@ -1,0 +1,12 @@
+{
+  "homeTab": {
+    "darwin": false,
+    "win32": false,
+    "linux": false
+  },
+  "hookInjector": {
+    "darwin": false,
+    "win32": true,
+    "linux": true
+  }
+}
