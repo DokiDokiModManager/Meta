@@ -8,5 +8,10 @@
     "darwin": false,
     "win32": true,
     "linux": true
+  },
+  "autoUpdate": {
+    "darwin": false,
+    "win32": true,
+    "linux": true
   }
 }
