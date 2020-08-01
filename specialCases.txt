@@ -1,0 +1,7 @@
+# This file specifies special case installation actions for some mods.
+
+# DDLC the normal VN
+14a9e9edbc136e891f5b8867e0308f7c6d5485d8  postinstall delete  game/scripts.rpa
+
+# Deletion Rewrite
+1e4f7f42f6e9b198063bc64f7c1b38a555706851  postinstall delete  game/scripts.rpa
