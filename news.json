@@ -1,11 +1,5 @@
 {
   "news": [
-    {
-      "id": "v420-rollback-1594561779636",
-      "title": "Mod display issues",
-      "body": "I've rolled back some changes after some users were reporting their mods weren't displaying correctly. If you are still having this issue, restart the app. Otherwise, please get in touch via Discord or email.",
-      "timestamp": 1594561779636,
-      "style": "popup"
-    }
+   
   ]
 }
