@@ -15,4 +15,4 @@ c766d2251365ad145c8987d59bfff3cd89f58c0e	postinstall	delete	game/scripts.rpa
 5fb3e9cc250c78b3f19e1af1e8fb8d485d4bf1c5	postinstall	delete	game/scripts.rpa
 
 # Second Chances
-96f54d546ae8f5fee03ba4c4f2ad7bad8a92dabe  postinstall delete  game/scripts.rpa
+96f54d546ae8f5fee03ba4c4f2ad7bad8a92dabe	postinstall	delete	game/scripts.rpa
